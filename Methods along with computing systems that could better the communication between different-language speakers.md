@@ -1,0 +1,20 @@
+## Overview
+The need for better communication between people that speak different languages has always been existing since the dawn of human society. When it comes to this, people would naturally think of ways to become bilingual. However, language acquisition is a grand topic which involves many complexities. A lot of approaches have been proposed to help people become bilingual, such as [[Language Learning Apps]], [[Spaced Repetition System]] and so on. We could also switch our standpoint on this. Our goal is to better the communication between different-language speakers. To that end, whatever approaches that could improve some aspects of language learning and teaching that are essentially beneficial for the communication and understanding between 2 people who speak different languages are desirable. There are 2 such methods, Visual-Auditory Shadowing (VAS) and Structural-Visual Method (SVM), respectively, aiming at improving different aspects of language leaning and teaching[1]. Both of these methods can also be improved by utilising computer systems and the combined use of both methods will lead to a synergistic effect in the learning process.
+
+## Shadowing method
+The study of cognition shows that it is necessary to develop a phonological loop to be able to understand what is heard. The shadowing method is one of the best approaches for this. Shadowing is “an act or a task of listening in which the learners track what he/she heard in speech and repeats it as accurately as possible while listening attentively to the in-coming information[2]. The shadowing method is effective in improving phonological loop process, and it leads to improvement in listening skills.
+
+## Visual Auditory shadowing(VAS)
+It is often the case that language learners understand written input(visual input) but not spoken
+input(auditory input). For example, language listeners often mistake auditory input such as "I won't go to London" as "I want to go to London",although they can understand the same input if it is presented visually. This is due to the fact that English is spoken differently to what learners might expect from its written form. One possible strategy to facilitate learning of phonetic variations is to match visual input with phonetic variety of auditory input. This can be achieved through [[Visual Auditory shadowing]].
+
+## Structural-Visual Method(SVM)
+[[Structural-Visual Method]] adds a physical or visual component to tasks to assist learners in understanding how exactly an activity should be completed. In the case of language acquisition, different coloured boxes are assigned with different components to help the learners learn the pattern.
+
+## Computing systems based on these Methods
+In terms of Computing systems based on these Methods, there are quite a few works. One of the most recent papers is by Imad Tahini and Alex Dadykin[3], in which they present their steps to implement our proposed architecture based on a visual model as a platform in mobile application with the establishment of content management system to provide the process of controlling the formation of speech skills and allowing the transition from foreign language learning to its improvement and acceleration.
+
+## Reference
+[1] Tahini, I.H., Nakayama, T., Dibrova, V.A. and Dadykin, А.K., 2018. Cognitive psychology models and approaches to develop language skills. _International Journal of Social Science and Humanity_, _8_(4), pp.110-115.
+[2] K. Tamai, Research on the Effect of Shadowing As a Listening Instruction Method, Tokyo: Kazama Shobo, 2005.
+[3] Tahini, I., Dadykin, A. (2022). Implementation Mobile App for Foreign Language Acquisition Based on Structural Visual Method. In: Smys, S., Bestak, R., Palanisamy, R., Kotuliak, I. (eds) Computer Networks and Inventive Communication Technologies . Lecture Notes on Data Engineering and Communications Technologies, vol 75. Springer, Singapore. https://doi.org/10.1007/978-981-16-3728-5_51
