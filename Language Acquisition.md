@@ -8,8 +8,8 @@ The collaboration between cognitive neuroscience and linguistic research is brid
 
 This mix between computing technology, cognitive science, and linguistic theories is a new area of research and its leading into innovative platforms that aid in language acquisition. Each of these different facets of research show the profound influence of modern technology in delving into the complicate neural networks associated with this process. This opens new ways for enhancing and augmenting language learning methodologies and tools, which benefits all of us.
 
-[1] [1] B. S. Kisilevsky _et al._, “Effects of experience on fetal voice recognition,” _Psychological Science_, vol. 14, no. 3, pp. 220–224, 2003. doi:10.1111/1467-9280.02435
-[2] [1] S. W. Goodwyn, L. P. Acredolo, and C. A. Brown, “Impact of Symbolic Gesturing on Early Language Development,” _Journal of Nonverbal Behavior_, vol. 24, no. 2, pp. 81–103, 2000. doi:10.1023/a:1006653828895
-[3] [1] J. Mårtensson _et al._, “Growth of language-related brain areas after foreign language learning,” _NeuroImage_, vol. 63, no. 1, pp. 240–244, 2012. doi:10.1016/j.neuroimage.2012.06.043
-[4] [1] G. Luk, C. Pliatsikas, and E. Rossi, “Brain changes associated with language development and learning: A Primer on methodology and applications,” _System_, vol. 89, p. 102209, 2020. doi:10.1016/j.system.2020.102209
-[5] [1] K. L. Sakai, “Language acquisition and brain development,” _Science_, vol. 310, no. 5749, pp. 815–819, 2005. doi:10.1126/science.1113530
+[1] B. S. Kisilevsky _et al._, “Effects of experience on fetal voice recognition,” _Psychological Science_, vol. 14, no. 3, pp. 220–224, 2003. doi:10.1111/1467-9280.02435
+[2] S. W. Goodwyn, L. P. Acredolo, and C. A. Brown, “Impact of Symbolic Gesturing on Early Language Development,” _Journal of Nonverbal Behavior_, vol. 24, no. 2, pp. 81–103, 2000. doi:10.1023/a:1006653828895
+[3] J. Mårtensson _et al._, “Growth of language-related brain areas after foreign language learning,” _NeuroImage_, vol. 63, no. 1, pp. 240–244, 2012. doi:10.1016/j.neuroimage.2012.06.043
+[4] G. Luk, C. Pliatsikas, and E. Rossi, “Brain changes associated with language development and learning: A Primer on methodology and applications,” _System_, vol. 89, p. 102209, 2020. doi:10.1016/j.system.2020.102209
+[5] K. L. Sakai, “Language acquisition and brain development,” _Science_, vol. 310, no. 5749, pp. 815–819, 2005. doi:10.1126/science.1113530
