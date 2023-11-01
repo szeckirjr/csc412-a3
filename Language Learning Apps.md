@@ -2,15 +2,23 @@ Language Learning Apps have emerged as pivotal tools in modern [[Language Acquis
 
 # Duolingo
 
+![[duolingo-ui.png]]
+**Figure 1: Duolingo UI**
+
 Duolingo, nowadays, is almost synonym to a language learning app. It is free (ad-supported) and offers a user-friendly platform with lessons structured in a game-like, interactive manner. Its features like Streaks, Leaderboards, and Experience points turn the language learning process into a fun journey for users. It leans heavily on the [[Gamification of Language Learning]] and is known for its short lessons mostly covering grammar, catering especially to beginners or those looking to get a basic exposure to a new language. Its approach is not exhaustive of the language, but it offers a laid-out course for learners, making language learning more accessible and engaging.
 
-Duolingo prides itself in the use of cognitive tools to help users with long-term retention of the language, such as employing a [[Spaced Repetition System]] for words. It also uses computational tools like [[Speech-to-Text]] to comprehend a user's pronunciation and help them with oral practicing as well. Its efficacy has been studied many times and results are mixed, with unfavourable research papers pointing at learner persistence, motivation, and program efficacy as the main problems [1].
+Duolingo prides itself in the use of cognitive tools to help users with long-term retention of the language, such as employing a [[Spaced Repetition System]] for words. It also uses computational tools like [[Speech-to-Text]] to comprehend a user's pronunciation and help them with oral practicing as well. In March of 2023, Duolingo introduced their new AI powered service - Duolingo Max, which shines a light on a whole new area with [[AI Language Tutors]]. This allows for personalized conversations and roleplaying that will adapt to what you are saying real time, as well as thorough feedback and explanations on your mistakes, so a user can learn better and more intuitively. 
 
-On the other hand, several studies have also found favourable outcomes. For example, a case study investigating how effective Duolingo is in helping with [[Language Acquisition]] found a positive correlation between the time spent on the app and learning gains by the end of the semester. Participants showed improved language measures, and viewed Duolingo's flexibility and gamification aspects positively. On the other hand, variability in the motivation to study and frustration with instructional materials were also expressed [1].
+![[duolingo-max-ui.png]]
+**Figure 2: Duolingo Max UI**
+
+Duolingo's efficacy has been studied many times and results are mixed, with unfavourable research papers pointing at learner persistence, motivation, and program efficacy as the main problems [1]. On the other hand, several studies have also found favourable outcomes. For example, a case study investigating how effective Duolingo is in helping with [[Language Acquisition]] found a positive correlation between the time spent on the app and learning gains by the end of the semester. Participants showed improved language measures, and viewed Duolingo's flexibility and gamification aspects positively. On the other hand, variability in the motivation to study and frustration with instructional materials were also expressed [1].
 
 # Rosetta Stone
 
-Rosetta Stone is another language learning application that is popular for those getting into a second language. It provides a more structured and immersive environment than Duolingo, and has a focus on pronunciation, vocabulary, and conversational language, with a lower emphasis on grammar. Its natural immersion technique makes use of images, audio, and contextual cues to foster a more intuitive understanding of the language.
+![[rosetta-stone-ui.png]]
+
+Rosetta Stone is another language learning application that is popular for those getting into a second language. It provides a more structured and immersive environment than Duolingo, and has a focus on pronunciation, vocabulary, and conversational language, with a lower emphasis on grammar. Its natural immersion technique makes use of images, audio, and contextual cues to foster a more intuitive understanding of the language, and it also utilizes similar techniques to Duolingo with a [[Gamification of Language Learning]] feature and [[Speech-to-Text]] technology to recognize the user's voice in real time.
 
 Several studies have attested to Rosetta Stone's effectiveness at [[Language Acquisition]]. For example, one controlled study demonstrated significant improvements in speaking, listening, and reading aloud among low proficiency English learners after using the app for just one school year [2]. Another study reflected on how it enhanced English proficiency achievement, as well as how it increased engagement in the language learning process [3].
 
