@@ -1,4 +1,3 @@
-## Overview
 Speech-to-Text (STT) technology is a fundamental component in the field of cognitive augmentation and language-related applications. It plays a critical role in converting spoken language into written text, enabling various practical applications and enhancing communication. STT finds its applications in various domains, making it a versatile technology with far-reaching implications.
 ### Accessibility
 STT technology enhances accessibility for individuals with hearing impairments or communication challenges by converting spoken language into written text [1]. This feature ensures effective communication and greater access to information.
@@ -13,5 +12,5 @@ STT technology serves as a pivotal form of [[assistive technology]], especially 
 
 SST allows individuals to access and comprehend information more easily. For instance, secondary school students with reading, writing, or spelling difficulties were provided with STR technology, enhancing their ability to engage with educational content [2].
 ## References
-[1] G. R. Seebun and L. Nagowah, "Let’s Talk: An Assistive Mobile Technology for Hearing and Speech Impaired Persons," _2020 3rd International Conference on Emerging Trends in Electrical, Electronic and Communications Engineering (ELECOM)_, Balaclava, Mauritius, 2020, pp. 210-215, [doi: 10.1109/ELECOM49001.2020.9297026](https://ieeexplore.ieee.org/abstract/document/9297026).
-[2] Shadiev, R., Hwang, W.-Y., Chen, N.-S., & Huang, Y.-M. (2014). Review of Speech-to-Text Recognition Technology for Enhancing Learning. _Journal of Educational Technology & Society_, 17(4), 65-84. [doi:10.2307/jeductechsoci.17.4.65](https://www.jstor.org/stable/10.2307/jeductechsoci.17.4.65)
+[1] G. R. Seebun and L. Nagowah, "Let’s Talk: An Assistive Mobile Technology for Hearing and Speech Impaired Persons," in _2020 3rd International Conference on Emerging Trends in Electrical, Electronic and Communications Engineering (ELECOM)_, Balaclava, Mauritius, 2020, pp. 210-215. [doi: 10.1109/ELECOM49001.2020.9297026](https://ieeexplore.ieee.org/abstract/document/9297026).
+[2] R. Shadiev, W.-Y. Hwang, N.-S. Chen, and Y.-M. Huang, "Review of Speech-to-Text Recognition Technology for Enhancing Learning," _Journal of Educational Technology & Society_, vol. 17, no. 4, pp. 65-84, 2014. [doi:10.2307/jeductechsoci.17.4.65](https://www.jstor.org/stable/10.2307/jeductechsoci.17.4.65).
