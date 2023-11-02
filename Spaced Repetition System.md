@@ -1,4 +1,3 @@
-## Introduction
 Language learning has evolved significantly in recent years with the advancement of technology. Learners have been able to take advantage of new technologies by creating [[Language Learning Apps]] to improve their language studies. These apps employ various techniques to optimize the learning process and help learners acquire fluency in their new languages more efficiently. Two techniques which have gained immense popularity are Spaced Repetition System (SRS) and [[Gamification of Language Learning]]. 
 
 ## Understanding the Spacing Effect
@@ -21,7 +20,7 @@ Another experiment was conducted on 62 students in a beginners spanish class. Th
 ## Future Prospects
 SRS has become a valuable tool for cognitive augmentation that optimizes memory retention. It is an established technique with proven benefits yet studies are still being conducted to determine whether there is an optimal spacing lag[1] and how classrooms can integrate this technique in classrooms[7]. The positive results achieved through this technique serve for as a model for future language learning systems which will hopefully better assist language learners in effectively acquiring a new language.
 
-### References
+## References
 [1] S. H. Kang, “Spaced repetition promotes efficient and effective learning,” _Policy Insights from the Behavioral and Brain Sciences_, vol. 3, no. 1, pp. 12–19, 2016. doi:10.1177/2372732215624708
 [2] F. N. Dempster, “Spacing effects and their implications for theory and Practice,” _Educational Psychology Review_, vol. 1, no. 4, pp. 309–330, 1989. doi:10.1007/bf01320097
 [3] B. Settles and B. Meeder, “A trainable spaced repetition model for language learning,” _Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)_, 2016. doi:10.18653/v1/p16-1174

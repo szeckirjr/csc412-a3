@@ -1,7 +1,6 @@
 Language Learning Apps have emerged as pivotal tools in modern [[Language Acquisition]], trying to address the barriers associated with traditional learning methods. In a rapidly globalizing world, the necessity to communicate across linguistic boundaries has never been more pronounced. However, conventional language learning approaches often require a significant time commitment and access to formal education resources, which may not be feasible for everyone. These apps have emerged as a solution to these challenges, providing flexible, accessible, and interactive platforms for individuals to learn and practice new languages at their own pace and convenience. While these apps might not replace formal language education, they serve as effective supplementary tools that helps with language acquisition for different learning styles and levels of proficiency.
 
 # Duolingo
-
 ![[duolingo-ui.png]]
 **Figure 1: Duolingo UI**
 
@@ -15,7 +14,6 @@ Duolingo prides itself in the use of cognitive tools to help users with long-ter
 Duolingo's efficacy has been studied many times and results are mixed, with unfavourable research papers pointing at learner persistence, motivation, and program efficacy as the main problems [1]. On the other hand, several studies have also found favourable outcomes. For example, a case study investigating how effective Duolingo is in helping with [[Language Acquisition]] found a positive correlation between the time spent on the app and learning gains by the end of the semester. Participants showed improved language measures, and viewed Duolingo's flexibility and gamification aspects positively. On the other hand, variability in the motivation to study and frustration with instructional materials were also expressed [1].
 
 # Rosetta Stone
-
 ![[rosetta-stone-ui.png]]
 **Figure 3: Rosetta Stone UI**
 
@@ -25,6 +23,7 @@ Several studies have attested to Rosetta Stone's effectiveness at [[Language Acq
 
 Both of these apps embody the blend of technology with cognitive and linguistic theories, which help to augment language acquisition. They offer a glimpse into the realm of mobile-assisted language learning, providing people with tools to autonomously pursue language acquisition in a globalized world.
 
+## References
 [1] Loewen, S., Crowther, D., Isbell, D., Kim, K., Maloney, J., Miller, Z., & Rawal, H. (2019). Mobile-assisted language learning: A Duolingo case study. _ReCALL,_ _31_(3), 293-311. doi:10.1017/S0958344019000065
 [2] https://resources.rosettastone.com/CDN/us/pdfs/Measuring_the_Effectiveness_RS-5.pdf
 [3] https://www.researchgate.net/publication/261360061_Rosetta_Stone_and_language_proficiency_of_international_secondary_school_English_language_learners
