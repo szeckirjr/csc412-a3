@@ -4,7 +4,7 @@ STT technology enhances accessibility for individuals with hearing impairments o
 ### Multilingual Communication
 In conjunction with translation technologies, STT allows for real-time translation of spoken language, contributing to multilingual communication and breaking down language barriers.    
 ### Integration with Text-to-Speech
-STT and [[Text-to-Speech]] (TTS) technologies complement each other, creating a seamless loop of speech-based interaction. This combination facilitates natural communication and understanding.    
+STT and [[Text-to-Speech]] (TTS) technologies complement each other, creating a seamless loop of speech-based interaction. This combination facilitates natural communication and understanding.  
 ### Language Learning 
 STT is integrated into [[language learning apps]], providing users with the ability to practice pronunciation and listening skills. Users can speak in their target language, and the app converts their speech into text for evaluation and feedback.
 ### Assistive Technology

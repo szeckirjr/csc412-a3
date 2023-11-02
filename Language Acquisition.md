@@ -1,4 +1,4 @@
-Language Acquisition is a natural and instinctive process through which humans acquire the ability to perceive, produce and use words to understand and communicate in the world. This process starts even before birth, and continues throughout life [1]. The early years are crucial for language development, as can be seen in [[Babies Learning Sign Language]], where it shows how symbolic gestures affect the child's overall learning and communication skills for the rest of their lives [2]. However, learning a new language or improving linguistic skills is a lifelong endeavour that can be pursued at any age.
+Language Acquisition is a natural and instinctive process through which humans acquire the ability to perceive, produce and use words to understand and communicate in the world. This process starts even before birth, and continues throughout life [1]. The early years are crucial for language development, and some studies have shown how symbolic gestures affect the child's overall learning and communication skills for the rest of their lives [2]. However, learning a new language or improving linguistic skills is a lifelong endeavour that can be pursued at any age.
 
 The advent of modern computing has significantly impacted how individuals approach language acquisition, with tools that make learning more accessible, engaging, and effective. Popular [[Language Learning Apps]] make use of cognitive science and create systems to try and boost the long-term retention of language concepts, such as [[Spaced Repetition System]] and [[Gamification of Language Learning]].
 
@@ -8,6 +8,7 @@ The collaboration between cognitive neuroscience and linguistic research is brid
 
 This mix between computing technology, cognitive science, and linguistic theories is a new area of research and its leading into innovative platforms that aid in language acquisition. Each of these different facets of research show the profound influence of modern technology in delving into the complicate neural networks associated with this process. This opens new ways for enhancing and augmenting language learning methodologies and tools, which benefits all of us.
 
+## References
 [1] B. S. Kisilevsky _et al._, “Effects of experience on fetal voice recognition,” _Psychological Science_, vol. 14, no. 3, pp. 220–224, 2003. doi:10.1111/1467-9280.02435
 [2] S. W. Goodwyn, L. P. Acredolo, and C. A. Brown, “Impact of Symbolic Gesturing on Early Language Development,” _Journal of Nonverbal Behavior_, vol. 24, no. 2, pp. 81–103, 2000. doi:10.1023/a:1006653828895
 [3] J. Mårtensson _et al._, “Growth of language-related brain areas after foreign language learning,” _NeuroImage_, vol. 63, no. 1, pp. 240–244, 2012. doi:10.1016/j.neuroimage.2012.06.043
