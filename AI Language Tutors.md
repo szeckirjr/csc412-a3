@@ -6,7 +6,7 @@ LLM's ability to mimic human language processing opens a window into the realm o
 
 Despite the large differences in scale, architecture, and training objectives between LLMs and humans, LLMs when utilized as cognitive models do exhibit immense promise in enhancing our comprehension of human cognition [2]. They provide a platform to study data-driven learning, particularly when it comes to [[Language Acquisition]], a complex yet fundamental and natural aspect of human learning. The insights gotten from these models could establish critical baselines for describing language learning and other domains like physical reasoning.
 
-In this way, LLMs have a good potential of serving as tools for computational cogntive augmentation, helping in the unraveling of the complex mix between language, reasoning, and other uniquely human behaviours.
+In this way, LLMs have a good potential of serving as tools for computational cognitive augmentation, helping in the unraveling of the complex mix between language, reasoning, and other uniquely human behaviours.
 
 ## LLMs and Language Learning
 
