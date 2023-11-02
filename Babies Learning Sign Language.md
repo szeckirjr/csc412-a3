@@ -1,1 +1,0 @@
-[1] H. Bowman-Smart, C. Gyngell, A. Morgan, and J. Savulescu, “The moral case for sign language education,” _Monash Bioethics Review_, vol. 37, no. 3–4, pp. 94–110, 2019. doi:10.1007/s40592-019-00101-0
