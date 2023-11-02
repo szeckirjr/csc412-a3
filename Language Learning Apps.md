@@ -17,6 +17,7 @@ Duolingo's efficacy has been studied many times and results are mixed, with unfa
 # Rosetta Stone
 
 ![[rosetta-stone-ui.png]]
+**Figure 3: Rosetta Stone UI**
 
 Rosetta Stone is another language learning application that is popular for those getting into a second language. It provides a more structured and immersive environment than Duolingo, and has a focus on pronunciation, vocabulary, and conversational language, with a lower emphasis on grammar. Its natural immersion technique makes use of images, audio, and contextual cues to foster a more intuitive understanding of the language, and it also utilizes similar techniques to Duolingo with a [[Gamification of Language Learning]] feature and [[Speech-to-Text]] technology to recognize the user's voice in real time.
 
