@@ -1,5 +1,4 @@
 Recently, there has been a surge in a whole new technology related to language - Large Language Models (LLMs). These models, which are trained and ran based on Artificial Intelligence (AI) algorithms, simulate how humans organize and structure language, with the capability to interpret, predict, and generate text [1]. This new technology is more than just a new computational feat, as it is also a leap towards understanding the human cognitive process itself, especially in the context of language acquisition [2].
-
 ## Bridging Cognitive Understanding
 LLM's ability to mimic human language processing opens a window into the realm of cognitive science. The goal of leveraging these models as "cognitive models" is **not** to mirror human cognition in every aspect, but rather to provide an accessibly system with some clearly defined mapping to the target, similar to how most models are employed across various scientific domains [2].
 
@@ -16,7 +15,6 @@ The integration of LLMs in a variety of language-related tools, such as Language
 LLMs can power sophisticated speech recognition and generation systems, aiding individuals with hearing or speech impairments. They enable real-time translation and transcription services, which make interactions across different languages seamless. In education, LLMs also contribute to a more inclusive environment by offering personalized and adaptive experiences, catering to a user's special needs and preferences. By transcending linguistic barriers and catering to a variety of needs, these models are critical in creating more linguistic inclusivity and social cohesion.
 ## Important Factors
 It is important to finish this section by realizing that the journey towards fully realizing the potential of AI Language Tutors is filled with challenges, especially when it comes to data privacy, managing quality and bias in generated responses, and assessing effectiveness compared to human tutors. On the other hand, these are new technologies and continuous advancements in LLMs/AI creates a promising future where language learning is more interactive, personalized, and globally accessible. Through their potential in computation cognitive augmentation and as assistive technologies, they are a good example on the profound impact of technological innovation on [[Language Acquisition]] and inclusion.
-
 ## References
 [1] M. U. Hadi _et al._, “Large language models: A comprehensive survey of its applications, challenges, limitations, and future prospects,” _TechArxiv_, 2023. doi:10.36227/techrxiv.23589741.v3
 [2] M. C. Frank, _Large language models as models of human cognition_, 2023. doi:10.31234/osf.io/wxt69
