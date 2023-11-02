@@ -22,5 +22,5 @@ Several studies have attested to Rosetta Stone's effectiveness at [[Language Acq
 Both of these apps embody the blend of technology with cognitive and linguistic theories, which help to augment language acquisition. They offer a glimpse into the realm of mobile-assisted language learning, providing people with tools to autonomously pursue language acquisition in a globalized world.
 ## References
 [1] Loewen, S., Crowther, D., Isbell, D., Kim, K., Maloney, J., Miller, Z., & Rawal, H. (2019). Mobile-assisted language learning: A Duolingo case study. _ReCALL,_ _31_(3), 293-311. doi:10.1017/S0958344019000065
-[2] https://resources.rosettastone.com/CDN/us/pdfs/Measuring_the_Effectiveness_RS-5.pdf
-[3] https://www.researchgate.net/publication/261360061_Rosetta_Stone_and_language_proficiency_of_international_secondary_school_English_language_learners
+[2] R. Vesselinov, “Measuring the Effectiveness of Rosetta Stone®,” _Final Report_, Jan. 2009. Accessed: Nov. 2, 2023. [Online]. Available: https://resources.rosettastone.com/CDN/us/pdfs/Measuring_the_Effectiveness_RS-5.pdf
+[3] R. A. Griffin, J. Martinez, and E. P. Martin, _ECV: Engaging Cultures and Voices_, no. 6, Mar. 2014. Accessed: Nov. 2, 2023. [Online]. Available: https://www.researchgate.net/publication/261360061_Rosetta_Stone_and_language_proficiency_of_international_secondary_school_English_language_learners

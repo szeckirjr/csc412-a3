@@ -7,5 +7,6 @@ TTS can be integrated into [[language learning apps]] to improve pronunciation a
 TTS is at the core of voice-activated virtual assistants like Siri, Alexa, and Google Assistant. These systems process spoken queries and respond with synthesized speech, providing information and performing tasks.
 ## Multilingual Capabilities
 The integration of TTS with translation technologies is a powerful combination. For example, in translation tools like [Google Translate](https://chat.openai.com/c/translate.google.com), users can both read and hear translations. This combination enhances understanding and accessibility, making it a valuable aspect of cognitive augmentation and multilingual communication.
+
 ![[google-translate-listen-function-converting-text-to-speech.png]]
 **Figure 1: Google Translate "Listen" Function Converting Text to Speech**
